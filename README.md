@@ -12,3 +12,5 @@ Right now, I am just looking around the data and seeing what Amon-Ra St. Brown w
 Day 2: This is much more of a reading and seeing what is possible day. I am learning more about plotly and looking at past competitions winners to see how I should set up a notebook and what kind of questions I should be asking
 
 Day 3: I found a book to read to get to understand more about the strategy of football called Take Your Eye off the Ball, might read this or find another book. Also got to make a more complex plotly graph.
+
+Day 4: Cleaning up the notebook to be more concise, then I hope to find a way to include more plays than just one play at a time, I wonder if there is a way to create a heatmap...
