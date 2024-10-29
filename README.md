@@ -16,4 +16,7 @@ Day 3: I found a book to read to get to understand more about the strategy of fo
 Day 4: Cleaning up the notebook to be more concise, then I hope to find a way to include more plays than just one play at a time, I wonder if there is a way to create a heatmap...
 
 Day 5: I was able to find a way to get it so every play in the game against the Commanders that led to an Amon-Ra St. Brown reception start at an origin (0,0) so it looks a little like this:
+
 ![image](https://raw.githubusercontent.com/APoodle/NFL-Big-Data-Bowl-2025/refs/heads/main/pics/Demo%20v.85.png)
+
+Day 6: Need to flip the plays that are going from right to left to the other way so it looks more uniform
