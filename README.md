@@ -14,3 +14,5 @@ Day 2: This is much more of a reading and seeing what is possible day. I am lear
 Day 3: I found a book to read to get to understand more about the strategy of football called Take Your Eye off the Ball, might read this or find another book. Also got to make a more complex plotly graph.
 
 Day 4: Cleaning up the notebook to be more concise, then I hope to find a way to include more plays than just one play at a time, I wonder if there is a way to create a heatmap...
+
+Day 5: I was able to find a way to get it so every play in the game against the Commanders that led to an Amon-Ra St. Brown reception start at an origin (0,0) so it looks a little like this:
