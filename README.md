@@ -19,4 +19,4 @@ Day 5: I was able to find a way to get it so every play in the game against the 
 
 ![image](https://raw.githubusercontent.com/APoodle/NFL-Big-Data-Bowl-2025/refs/heads/main/pics/Demo%20v.85.png)
 
-Day 6: Need to flip the plays that are going from right to left to the other way so it looks more uniform
+Day 6: Was finally able to flip the plays going to the left, so that all plays look like they are going to the right (no idea if I should flip it upside down or not yet). Now I can worry about making a heatmap.
