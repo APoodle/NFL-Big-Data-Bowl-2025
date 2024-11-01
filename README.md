@@ -24,3 +24,5 @@ Day 6: Was finally able to flip the plays going to the left, so that all plays l
 Day 7: Heatmap did not take so long to figure out, the next thing I need to do is compare it with the plays Amon-Ra St. Brown did not get the ball or failed to catch the ball.
 
 Day 8: With limited time today, I decided to just take it easy and just get to learn Kaggle's markdown capabilities. I currently have an image at the top and made a nice little markdown box with the main title.
+
+Day 9: Finished the heatmaps, looking at it now, I do not know if there is enough information in the visualization to say anything conclusive. So I am going to analyze time difference between Amon-Ra plays and non-Amon-Ra plays and see what I can conclude from there.
