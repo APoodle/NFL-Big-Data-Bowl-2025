@@ -22,3 +22,5 @@ Day 5: I was able to find a way to get it so every play in the game against the 
 Day 6: Was finally able to flip the plays going to the left, so that all plays look like they are going to the right (no idea if I should flip it upside down or not yet). Now I can worry about making a heatmap.
 
 Day 7: Heatmap did not take so long to figure out, the next thing I need to do is compare it with the plays Amon-Ra St. Brown did not get the ball or failed to catch the ball.
+
+Day 8: With limited time today, I decided to just take it easy and just get to learn Kaggle's markdown capabilities. I currently have an image at the top and made a nice little markdown box with the main title.
