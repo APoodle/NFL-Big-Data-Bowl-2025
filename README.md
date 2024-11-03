@@ -26,3 +26,5 @@ Day 7: Heatmap did not take so long to figure out, the next thing I need to do i
 Day 8: With limited time today, I decided to just take it easy and just get to learn Kaggle's markdown capabilities. I currently have an image at the top and made a nice little markdown box with the main title.
 
 Day 9: Finished the heatmaps, finished looking at average time before pass was made to St. Brown. Now I am going to be cleaning it up and making the notebook look nice. 
+
+Day 10: Currently sstruggling on what else I can analyze before the snap to make any valuable insights, I have some ideas like seeing what formations lead to Amon-Ra St Brown receptions, or even what formations fail to prevent the sun god himself from getting a reception
