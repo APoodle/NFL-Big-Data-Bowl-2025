@@ -28,3 +28,5 @@ Day 8: With limited time today, I decided to just take it easy and just get to l
 Day 9: Finished the heatmaps, finished looking at average time before pass was made to St. Brown. Now I am going to be cleaning it up and making the notebook look nice. 
 
 Day 10: Currently sstruggling on what else I can analyze before the snap to make any valuable insights, I have some ideas like seeing what formations lead to Amon-Ra St Brown receptions, or even what formations fail to prevent the sun god himself from getting a reception
+
+Day 11: Was busy watching the games this week, which led me to realize that a lot of plays from the Detroit Lions seem to have Amon-Ra St. Brown go across the field... I wonder why.
