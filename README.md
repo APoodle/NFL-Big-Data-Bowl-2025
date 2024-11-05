@@ -30,3 +30,5 @@ Day 9: Finished the heatmaps, finished looking at average time before pass was m
 Day 10: Currently sstruggling on what else I can analyze before the snap to make any valuable insights, I have some ideas like seeing what formations lead to Amon-Ra St Brown receptions, or even what formations fail to prevent the sun god himself from getting a reception
 
 Day 11: Was busy watching the games this week, which led me to realize that a lot of plays from the Detroit Lions seem to have Amon-Ra St. Brown go across the field... I wonder why.
+
+Day 12: I have officially reached a stopping point at my creativity to figure out what to do next, so I am going to look at the past winners, read the book and see what inspiration I can get from there. I will be taking a break from constantly updating this Kaggle Notebook from what it seems like.
