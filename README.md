@@ -32,3 +32,5 @@ Day 10: Currently sstruggling on what else I can analyze before the snap to make
 Day 11: Was busy watching the games this week, which led me to realize that a lot of plays from the Detroit Lions seem to have Amon-Ra St. Brown go across the field... I wonder why.
 
 Day 12: I have officially reached a stopping point at my creativity to figure out what to do next, so I am going to look at the past winners, read the book and see what inspiration I can get from there. I will be taking a break from constantly updating this Kaggle Notebook from what it seems like.
+
+Day 13: After reading the book, I am going to look into how Tight End formations lead to the possibility of pass plays towards Amon-Ra St. Brown/other receivers. Could also look into Running Backs. I also want to implement where they are facing to see if them looking elsewhere other than the QB leads to more running plays or not
