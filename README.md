@@ -34,3 +34,10 @@ Day 11: Was busy watching the games this week, which led me to realize that a lo
 Day 12: I have officially reached a stopping point at my creativity to figure out what to do next, so I am going to look at the past winners, read the book and see what inspiration I can get from there. I will be taking a break from constantly updating this Kaggle Notebook from what it seems like.
 
 Day 13: After reading the book, I am going to look into how Tight End formations lead to the possibility of pass plays towards Amon-Ra St. Brown/other receivers. Could also look into Running Backs. I also want to implement where they are facing to see if them looking elsewhere other than the QB leads to more running plays or not
+
+Day 14: Finally getting back around this, I still have not finished the book (though I am reading it a lot currently), but it has given me some ideas. I can look at the offensive linemen's position and orientation to help aid if the play is going to be a rush or a pass. Using these two columns:
+
+o: Player orientation (deg), 0 - 360 degrees (numeric)
+dir: Angle of player motion (deg), 0 - 360 degrees (numeric)
+
+I feel like right now, my best chance is to calculate the probabilities of pass plays vs rush plays depending on the player movements and orientation. I would need to probably use the movement of the quarterback as well, but right now I still plan on focusing on Amon-Ra St. Brown
