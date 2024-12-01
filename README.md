@@ -41,3 +41,5 @@ o: Player orientation (deg), 0 - 360 degrees (numeric)
 dir: Angle of player motion (deg), 0 - 360 degrees (numeric)
 
 I feel like right now, my best chance is to calculate the probabilities of pass plays vs rush plays depending on the player movements and orientation. I would need to probably use the movement of the quarterback as well, but right now I still plan on focusing on Amon-Ra St. Brown
+
+Day 15: Finished the book, my current thing to analyze will continue to be measuring orientation to see likelihood of run play or pass play.
