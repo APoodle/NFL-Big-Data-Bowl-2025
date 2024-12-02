@@ -43,3 +43,5 @@ dir: Angle of player motion (deg), 0 - 360 degrees (numeric)
 I feel like right now, my best chance is to calculate the probabilities of pass plays vs rush plays depending on the player movements and orientation. I would need to probably use the movement of the quarterback as well, but right now I still plan on focusing on Amon-Ra St. Brown
 
 Day 15: Finished the book, my current thing to analyze will continue to be measuring orientation to see likelihood of run play or pass play.
+
+Day 16: I analyzed two plays of Penei Sewell and there is a difference in orientation if its an Amon-Ra play or not, again it is only two plays, but right now I am seeing a problem with going all the way with this right now since I have to make sure I get the plays between line set and ball snap...
